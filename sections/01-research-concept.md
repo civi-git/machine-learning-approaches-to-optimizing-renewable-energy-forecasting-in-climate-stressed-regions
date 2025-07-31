@@ -8,6 +8,9 @@ Key Research Questions:
 sdads
 How can ML models account for climate anomalies when forecasting renewable energy generation?
 
-What combination of data modalities yields the most robust forecast across time horizons?
+What combination of data modalities yields the most robust forecast across time horizons? What exists in the literature. 
 
-Can uncertainty quantification be improved for operational decision-making? 
+
+Something helpful (Identifying areas with similar applications, other suggestions and paths to go down) (Benchmark in otherspaces)
+
+Can uncertainty quantification be improved for operational decision-making?
