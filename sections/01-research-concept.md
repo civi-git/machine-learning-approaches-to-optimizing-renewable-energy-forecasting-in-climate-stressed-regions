@@ -5,10 +5,9 @@ As climate volatility increases, accurate forecasting of renewable energy produc
 We aim to integrate satellite imagery, historical production logs, and climate reanalysis data to model energy outputs with greater precision across geographically diverse regions.
 
 Key Research Questions:
-
+sdads
 How can ML models account for climate anomalies when forecasting renewable energy generation?
 
 What combination of data modalities yields the most robust forecast across time horizons?
 
-Can uncertainty quantification be improved for operational decision-making?
-
+Can uncertainty quantification be improved for operational decision-making? 
