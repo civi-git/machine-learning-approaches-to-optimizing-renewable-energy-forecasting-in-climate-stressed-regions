@@ -1,5 +1,7 @@
 # Literature Review
 
+# Literature Review
+
 Relevant Areas Reviewed:
 
 Energy Forecasting & Time-Series Modeling
@@ -22,3 +24,7 @@ References will be compiled in the "References" section.
 
 
 Biggest bottleneck is literature review.
+
+
+---
+*This section is being enhanced by The Research Company AI Agent*
